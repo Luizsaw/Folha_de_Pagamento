@@ -6,15 +6,27 @@ Bem-vindo ao repositório da aplicação de Folha de Pagamento, parte integrante
 
 A aplicação de Folha de Pagamento é o núcleo do sistema, responsável pelo processamento dos holerites dos funcionários e pela gestão abrangente das informações dos colaboradores.
 
+#Acesso a aplicação:
+Login: Admim
+senha: Admin
+
 ## 2. Portal do Funcionário
 
 O Portal do Funcionário é um site dedicado, proporcionando aos funcionários a facilidade de acessar e revisar suas informações pessoais, incluindo detalhes sobre a folha de pagamento e registros de ponto.
+
+#Acesso ao site:
+Login: luizsaw@gmail.com
+senha: 123456
 
 ## 3. Registro de Ponto (Android App)
 
 O Registro de Ponto é uma aplicação móvel desenvolvida para dispositivos Android, permitindo que os funcionários realizem registros precisos de entrada, saída e intervalo para o almoço de maneira conveniente.
 
 Este sistema foi concebido como parte da aplicação prática dos conhecimentos adquiridos durante meu percurso acadêmico. Ao longo de seis meses, empenhei-me no desenvolvimento desta solução robusta, buscando oferecer uma ferramenta eficiente e intuitiva para a administração de recursos humanos.
+
+#Acesso ao App:
+Login: luizsaw@gmail.com
+senha: 123456
 
 ## Documentação
 
