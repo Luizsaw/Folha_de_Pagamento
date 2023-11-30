@@ -22,4 +22,4 @@ Para uma compreensão detalhada de todo o processo de desenvolvimento, recomendo
 
 Agradeço por explorar este repositório e espero que esta aplicação contribua positivamente para suas necessidades de gerenciamento de folha de pagamento.
 
-[[Link para a Documentação](https://drive.google.com/file/d/1dvqkmcVY0N7zazdb2XGDRh0k8aSlqpde/view?usp=sharing)](#)
+[[Link para a Documentação](https://drive.google.com/file/d/14F7lBfh05t8UGVsVGT9HSLwE3RnL_FgR/view?usp=sharing)](#)
