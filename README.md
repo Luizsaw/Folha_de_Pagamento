@@ -16,7 +16,7 @@ O Portal do Funcionário é um site dedicado, proporcionando aos funcionários a
 
 ## 3. Registro de Ponto (Android App)
 
-O Registro de Ponto é uma aplicação móvel desenvolvida para dispositivos Android, permitindo que os funcionários realizem registros precisos de entrada, saída e intervalo para o almoço de maneira conveniente.
+O Registro de Ponto é uma aplicação móvel desenvolvida para dispositivos Android, permitindo que os funcionários realizem registros precisos de entrada, saída e intervalo para o almoço de maneira simples.
 
 [[Link para o repositório](https://github.com/Luizsaw/RHS_Folha_de_Ponto)](#)
 
