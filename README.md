@@ -47,12 +47,12 @@ Este sistema é composto por **três aplicações integradas**, cada uma com uma
 
 <table align="center">
   <tr>
-    <td><img src="Assets/Captura de tela 2023-10-20 154450.png" width="700"></td>
-    <td><img src="Assets/Captura de tela 2023-10-20 154805.png" width="700"></td>
+    <td><img src="Assets/Captura de tela 2023-10-20 154450.png" width="800"></td>
+    <td><img src="Assets/Captura de tela 2023-10-20 154805.png" width="800"></td>
   </tr>
   <tr>
-    <td><img src="Assets/Captura de tela 2023-10-20 154856.png" width="700"></td>
-    <td><img src="Assets/Captura de tela 2023-10-20 155101.png" width="700"></td>
+    <td><img src="Assets/Captura de tela 2023-10-20 154856.png" width="800"></td>
+    <td><img src="Assets/Captura de tela 2023-10-20 155101.png" width="800"></td>
   </tr>
 </table>
 
