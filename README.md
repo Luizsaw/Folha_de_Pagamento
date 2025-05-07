@@ -1,4 +1,4 @@
-# 💼 Sistema de Folha de Pagamento
+<h2 align="center">💼 Sistema de Folha de Pagamento</h2> 
 
 Sistema completo para gestão de folha de pagamento com controle de acesso, cadastro de empresas e funcionários, cálculo automatizado de remunerações, descontos e emissão de holerites em PDF. O projeto atende aos critérios legais e é multiplataforma (desktop, web e mobile).
 
@@ -6,7 +6,7 @@ Sistema completo para gestão de folha de pagamento com controle de acesso, cada
 
 ---
 
-## 🏗️ Arquitetura do Sistema
+<h2 align="center">🏗️📐 Arquitetura do Sistema</h2> 
 
 Após o levantamento de todos os requisitos, começamos a trabalhar na arquitetura do sistema. Foi então criado um ecossistema composto por **três aplicações integradas**:
 
@@ -42,7 +42,7 @@ Essa estrutura modular e integrada garante escalabilidade, segurança e uma expe
 <table align="center">
   <tr>
     <td><img src="Assets/Captura de tela 2023-10-20 154450.png" width="800"></td>
-    <td><img src="Assets/Captura de tela 2023-10-20 154805.png" width="800"></td>
+    <td><img src="Assets/Captura de tela 2023-10-20 154856.png" width="800"></td>
   </tr>
 </table>
 
