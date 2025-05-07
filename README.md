@@ -35,7 +35,7 @@ Essa estrutura modular e integrada garante escalabilidade, segurança e uma expe
 Este sistema é composto por **três aplicações integradas**, cada uma com uma função específica dentro do fluxo de RH:
 
 <p align="center">
-  <img src="\Assets\Banner - 2.png" alt="descrição da imagem" width="400"/>
+  <img src="\Assets\Banner - 2.png" alt="descrição da imagem" width="600"/>
 </p>
 
 ## 📌 Funcionalidades Principais
