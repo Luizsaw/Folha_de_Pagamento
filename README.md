@@ -2,7 +2,7 @@
 
 Sistema completo para gestão de folha de pagamento com controle de acesso, cadastro de empresas e funcionários, cálculo automatizado de remunerações, descontos e emissão de holerites em PDF. O projeto atende aos critérios legais e é multiplataforma (desktop, web e mobile).
 
-<p align="center"><img src="\Assets\Banner - 5.png" alt="Imagem de Demonstração" width="800"/></p>
+<p align="center"><img src="\Assets\Banner - 5.png" alt="Imagem de Demonstração" width="600"/></p>
 
 ---
 
@@ -39,7 +39,7 @@ Essa estrutura modular e integrada garante escalabilidade, segurança e uma expe
 
 ---
 
-<p align="center"><img src="Assets/Captura de tela 2023-10-20 154856.png" alt="Interface Principal" width="800"/></p>
+<p align="center"><img src="Assets/Captura de tela 2023-10-20 154856.png" alt="Interface Principal" width="1200"/></p>
 
 ---
 
