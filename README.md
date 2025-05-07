@@ -3,7 +3,7 @@
 Sistema completo para gestão de folha de pagamento com controle de acesso, cadastro de empresas e funcionários, cálculo automatizado de remunerações, descontos e emissão de holerites em PDF. O projeto atende aos critérios legais e é multiplataforma (desktop, web e mobile).
 
 <p align="center">
-  <img src="\Assets\Captura de tela 2023-10-20 153635.png" alt="descrição da imagem" width="400"/>
+  <img src="\Assets\Banner - 1.png" alt="descrição da imagem" width="400"/>
 </p>
 
 ---
@@ -115,7 +115,7 @@ Desenvolvedor de Sistemas com foco em aplicações full-stack e soluções empre
 🔗 [LinkedIn](https://www.linkedin.com/in/luiz-machado-57366a174)
 
 **GABRIEL NATAN MAGALHÃES BENTO DE MEDEIROS**    
-📧 [luizsaw@gmail.com](mailto:gabriel.natan.mb@gmail.com)  
+📧 [gabriel.natan.mb@gmail.com](mailto:gabriel.natan.mb@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/gabrielnmag/)
 
 ---
