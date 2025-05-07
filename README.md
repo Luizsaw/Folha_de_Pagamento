@@ -20,7 +20,7 @@ Além disso, vale destacar que a **autenticação de usuários** nas plataformas
 
 Essa estrutura modular e integrada garante escalabilidade, segurança e uma experiência contínua ao usuário em diferentes plataformas.
 
-<p align="center"><img src="\Assets\Banner - 1.png" alt="descrição da imagem" width="400"/></p>
+<p align="center"><img src="\Assets\Banner - 1.png" alt="descrição da imagem" width="600"/></p>
 
 ---
 
@@ -41,8 +41,8 @@ Essa estrutura modular e integrada garante escalabilidade, segurança e uma expe
 
 <table align="center">
   <tr>
-    <td><img src="Assets/Captura de tela 2023-10-20 154450.png" width="800"></td>
-    <td><img src="Assets/Captura de tela 2023-10-20 154856.png" width="800"></td>
+    <td><img src="Assets/Captura de tela 2023-10-20 154450.png" width="900"></td>
+    <td><img src="Assets/Captura de tela 2023-10-20 154856.png" width="900"></td>
   </tr>
 </table>
 
