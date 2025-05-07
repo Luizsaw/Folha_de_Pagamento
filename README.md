@@ -83,7 +83,7 @@ A documentação do projeto inclui detalhes sobre:
 - Decisões de design e tecnologias utilizadas  
 - Fluxos de uso e integração entre os sistemas
 
-📄 [Visualizar Documentação Completa]("https://github.com/Luizsaw/RHS_Folha_de_Pagamento/blob/main/Documentacao/Doc_Sistema_Folha_de_Pagamento.pdf")
+📄 [Visualizar Documentação Completa](https://github.com/Luizsaw/RHS_Folha_de_Pagamento/blob/main/Documentacao/Doc_Sistema_Folha_de_Pagamento.pdf)
 
 ---
 
