@@ -44,16 +44,16 @@ Este sistema é composto por **três aplicações integradas**, cada uma com uma
 - ☁️ **Segurança e armazenamento de dados em nuvem com PostgreSQL**.
 
 ---
-
-<p align="center">
-  <img src="Assets/Captura de tela 2023-10-20 154450.png" alt="Imagem 1" width="600"/>
-  <img src="Assets/Captura de tela 2023-10-20 154805.png" alt="Imagem 2" width="600"/>
-</p>
-<p align="center">
-  <img src="Assets/Captura de tela 2023-10-20 154856.png" alt="Imagem 3" width="600"/>
-  <img src="Assets/Captura de tela 2023-10-20 155101.png" alt="Imagem 4" width="600"/>
-</p>
-
+<table align="center">
+  <tr>
+    <td><img src="Assets/Captura de tela 2023-10-20 154450.png" width="400"></td>
+    <td><img src="Assets/Captura de tela 2023-10-20 154805.png" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="Assets/Captura de tela 2023-10-20 154856.png" width="400"></td>
+    <td><img src="Assets/Captura de tela 2023-10-20 155101.png" width="400"></td>
+  </tr>
+</table>
 ---
 
 <h2 align="center">⚙️ Tecnologias Utilizadas</h2>
