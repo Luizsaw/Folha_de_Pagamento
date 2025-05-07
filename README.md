@@ -2,9 +2,7 @@
 
 Sistema completo para gestão de folha de pagamento com controle de acesso, cadastro de empresas e funcionários, cálculo automatizado de remunerações, descontos e emissão de holerites em PDF. O projeto atende aos critérios legais e é multiplataforma (desktop, web e mobile).
 
-<p align="center">
-  <img src="\Assets\Banner - 5.png" alt="descrição da imagem" width="600"/>
-</p>
+<p align="center"><img src="\Assets\Banner - 5.png" alt="descrição da imagem" width="600"/></p>
 
 ---
 
@@ -22,11 +20,7 @@ Além disso, vale destacar que a **autenticação de usuários** nas plataformas
 
 Essa estrutura modular e integrada garante escalabilidade, segurança e uma experiência contínua ao usuário em diferentes plataformas.
 
----
-
-<p align="center">
-  <img src="\Assets\Banner - 1.png" alt="descrição da imagem" width="400"/>
-</p>
+<p align="center"><img src="\Assets\Banner - 1.png" alt="descrição da imagem" width="400"/></p>
 
 ---
 
@@ -34,9 +28,7 @@ Essa estrutura modular e integrada garante escalabilidade, segurança e uma expe
 
 Este sistema é composto por **três aplicações integradas**, cada uma com uma função específica dentro do fluxo de RH:
 
-<p align="center">
-  <img src="\Assets\Banner - 2.png" alt="descrição da imagem" width="600"/>
-</p>
+<p align="center"><img src="\Assets\Banner - 2.png" alt="descrição da imagem" width="600"/></p>
 
 ## 📌 Funcionalidades Principais
 
@@ -53,9 +45,10 @@ Este sistema é composto por **três aplicações integradas**, cada uma com uma
 
 ---
 
-<p align="center">
-  <img src="\Assets\Banner - 5.png" alt="descrição da imagem" width="400"/>
-</p>
+<p align="center"><img src="Assets/Captura de tela 2023-10-20 154450.png" alt="descrição da imagem" width="400"/></p>
+<p align="center"><img src="Assets/Captura de tela 2023-10-20 154805.png" alt="descrição da imagem" width="400"/></p>
+<p align="center"><img src="Assets/Captura de tela 2023-10-20 154856.png" alt="descrição da imagem" width="400"/></p>
+<p align="center"><img src="Assets/Captura de tela 2023-10-20 155101.png" alt="descrição da imagem" width="400"/></p>
 
 ---
 
