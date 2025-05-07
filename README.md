@@ -83,18 +83,10 @@ A documentação do projeto inclui detalhes sobre:
 - Decisões de design e tecnologias utilizadas  
 - Fluxos de uso e integração entre os sistemas
 
-📄 [Visualizar Documentação Completa]("\Documentacao\Doc_Sistema_Folha_de_Pagamento.pdf")
+📄 [Visualizar Documentação Completa]("Documentacao/Doc_Sistema_Folha_de_Pagamento.pdf")
 
 ---
 
-## 🧰 Tecnologias Utilizadas
-
-- C# (.NET Framework – Windows Forms)  
-- SQL Server (banco de dados)  
-- Git + GitHub  
-- Visual Studio
-
----
 
 ## 🙋 Sobre os Autores
 
