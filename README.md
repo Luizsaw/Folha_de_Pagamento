@@ -39,7 +39,7 @@ Essa estrutura modular e integrada garante escalabilidade, segurança e uma expe
 
 ---
 
-<p align="center"><img src="Assets/Captura de tela 2023-10-20 154856.png" alt="Interface Principal" width="600"/></p>
+<p align="center"><img src="Assets/Captura de tela 2023-10-20 154856.png" alt="Interface Principal" width="900"/></p>
 
 ---
 
