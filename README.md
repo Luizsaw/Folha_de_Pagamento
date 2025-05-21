@@ -51,7 +51,7 @@ Essa estrutura modular e integrada garante escalabilidade, segurança e uma expe
 
 ### 🌐 2. Portal do Funcionário (Web)
 
-Aplicação web que permite aos colaboradores acessarem suas informações pessoais, visualizarem holerites, registros de ponto e atualizarem dados.
+Aplicação web que permite aos colaboradores acessarem suas informações pessoais, visualizarem holerites e registros de ponto.
 
 🔗 [Acessar repositório do Portal do Funcionário](https://github.com/Luizsaw/RHS_Portal_Funcionario)
 
